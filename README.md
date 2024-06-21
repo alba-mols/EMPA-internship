@@ -4,6 +4,8 @@ This folder contains 2 main things:
 1) Script to compare ICON-ART and CAM-Chem output to TROPOMI NO2 observations
 2) Script to compare ICON-ART to CAM-Chem output
 
+Additionally, it contains a land-sea mask for a 13x13 ICON European grid, and a script to interpolate CAM-Chem 6-hourly files to daily files.
+
 ## 1) ICON-ART/CAM-Chem comparison to TROPOMI observations
 
 ### What does the script do?
